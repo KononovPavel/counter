@@ -6,6 +6,7 @@
     flex-direction: column;
     justify-content: space-between;
     border-radius: 10px;
+    margin-right: 20px;
 }
 .counterView{
      width: 90%;
@@ -31,4 +32,8 @@
 .count{
     color: #00ebff;
     font-size: 30px;
+}
+.red{
+    color: #ff0000;
+    font-size: 40px;
 }
