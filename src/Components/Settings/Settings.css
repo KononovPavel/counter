@@ -1,0 +1,44 @@
+.settings{
+    width: 250px;
+    height: 200px;
+    border: 2px solid #00ebff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+
+}
+.settingView{
+    width: 90%;
+    height: 50%;
+    margin: 10px  auto auto;
+    border: 2px solid #00ebff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+.settingsButtons{
+    width: 90%;
+    height: 30%;
+    margin: 10px auto;
+    border: 2px solid #00ebff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+.set{
+    width: 90%;
+    height: 30%;
+    margin: 5px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.span{
+    color: #00ebff;
+    font-weight: normal;
+    font-family: Montserrat, serif;
+}
